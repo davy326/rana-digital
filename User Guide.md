@@ -14,11 +14,16 @@ Plug the controller in using a USB-C to USB-A cable.  In Slippi Dolphin controll
 
 - #### Console
 
-Plug the controller in using a GCC to USB-A cable.
+Plug the controller in using a USB-C to GCC cable.
 
 ### For Ultimate:
 
-#### (Coming Soon)
+Either plug in through a GCC adapter using the USB-C to GCC cable or plug directly into the Switch with USB-C to USB-A, while holding down MX
+
+![image](https://github.com/rana-sylvatica/rana-digital/assets/95242582/ad19f604-cd48-4781-b0d6-d9c19b1d9b23)
+
+
+
 
 ### For Rivals of Aether:
 
@@ -29,9 +34,8 @@ Plug the controller in to the PC using a USB-C to USB-A cable while holding the 
 
 ### Modes
 
-This is not an exhaustive list of all the modes available in the pico-rectangle firmware but it should contain the ones that are useful to the vast majority of users.
+This is not an exhaustive list of all the modes available in the pico-rectangle firmware but it should contain the ones that are useful to most users.
 
-#### (Coming Soon)
 
 ### Remapping
 
